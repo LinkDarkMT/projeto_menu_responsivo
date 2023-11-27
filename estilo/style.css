@@ -28,7 +28,22 @@ header > h1{
 }
 
 menu{
+    display: none;
+
+}
+
+i#burguer{
+    background-color: rgb(56, 56, 56);
     display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+i#burguer:hover{
+    background-color: white;
+    color: black;
 
 }
 
